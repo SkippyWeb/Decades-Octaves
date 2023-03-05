@@ -7,9 +7,9 @@
 
 
 **Developer**
-    Antoine van Kampen
-    www.skippyweb.eu
-   5 June 2021
+    Antoine van Kampen  
+    www.skippyweb.eu  
+   5 June 2021  
 
 
 
